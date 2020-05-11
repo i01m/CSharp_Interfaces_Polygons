@@ -1,0 +1,12 @@
+C:\ProjectDevVm\C#\Interfaces\Polygons\Polygons.Library\bin\Debug\Polygons.Library.dll
+C:\ProjectDevVm\C#\Interfaces\Polygons\Polygons.Library\bin\Debug\Polygons.Library.pdb
+C:\ProjectDevVm\C#\Interfaces\Polygons\Polygons.Library\obj\Debug\Polygons.Library.csprojAssemblyReference.cache
+C:\ProjectDevVm\C#\Interfaces\Polygons\Polygons.Library\obj\Debug\Polygons.Library.csproj.CoreCompileInputs.cache
+C:\ProjectDevVm\C#\Interfaces\Polygons\Polygons.Library\obj\Debug\Polygons.Library.dll
+C:\ProjectDevVm\C#\Interfaces\Polygons\Polygons.Library\obj\Debug\Polygons.Library.pdb
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\Polygons\Polygons.Library\bin\Debug\Polygons.Library.dll
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\Polygons\Polygons.Library\bin\Debug\Polygons.Library.pdb
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\Polygons\Polygons.Library\obj\Debug\Polygons.Library.csprojAssemblyReference.cache
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\Polygons\Polygons.Library\obj\Debug\Polygons.Library.dll
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\Polygons\Polygons.Library\obj\Debug\Polygons.Library.pdb
+C:\Project\DEVELOPMENT_VM\C#\Interfaces\Polygons\Polygons.Library\obj\Debug\Polygons.Library.csproj.CoreCompileInputs.cache
